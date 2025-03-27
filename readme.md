@@ -29,8 +29,29 @@
 
 
 ### To build or test all the implementations provided. 
-1. Please go to vectordatases/faiss folder
-2. Either execute locally or over a platform
+1. Please go to vectordatases/ folder
+2. Either execute locally or over a platform any of the vector databases
+
+## Following are the list of Databases being evaluated.
+| **Database**      |
+|-------------------|
+| **Pinecone**      | 
+| **FAISS**         |
+| **Milvus**        |
+| **Weaviate**      |
+| **ChromaDB**      |
+| **Qdrant**        |
+| **Annoy**         |
+| **Redis**         |
+| **Elasticsearch** |
+| **ScaNN**         |
+| **MongoDB Atlas** |
 
 
- 
+### Parameters against which these databases are being evaluated.
+| **Parameters**               |
+|------------------------------|
+| **Managed Service**          |
+| **Indexing support**         |
+| **Workload supportaibality** |
+| **Serach results**           |
