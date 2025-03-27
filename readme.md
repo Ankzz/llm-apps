@@ -1,4 +1,6 @@
-# 🚀LLM Art Work
+# 🚀LLM Art Corner
+
+![alt text](LLMArtCorner.png "LLM Art Corner")
 
 ### This repository serves as a sandbox for experimenting with various Large Language Models (LLMs) and related technologies, such as vector databases, while remaining open to broader innovations.
 
