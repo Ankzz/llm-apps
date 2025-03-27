@@ -55,3 +55,6 @@
 | **Indexing support**         |
 | **Workload supportaibality** |
 | **Serach results**           |
+
+---
+### Each folder has its own readme file detailing out advantages and scenarios best suited for the application of that database
