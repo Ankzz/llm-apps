@@ -52,8 +52,8 @@ print(f"\nFlat Search Time: {end - start:.5f} sec")
 
 # IVF Search
 start = time.time()
-index.nprobe = 5  # Number of clusters to search in IVF
-dist, idx_ivf = index.search(query_vector, k)
+index_ivf.nprobe = 5  # Number of clusters to search in IVF
+dist, idx_ivf = index_ivf.search(query_vector, k)
 end = time.time()
 print(f"IVF Search Time: {end - start:.5f} sec")
 
