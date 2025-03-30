@@ -1,3 +1,9 @@
+
+---
+
+# Vectordatabases
+
+---
 Apart from **FAISS** and **Pinecone**, there are several other powerful vector databases designed for fast and scalable similarity search. Each offers unique strengths in terms of performance, scalability, and deployment flexibility.
 
 ---
